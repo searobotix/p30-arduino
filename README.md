@@ -2,11 +2,11 @@
 [![Travis Build Status](https://travis-ci.org/bluerobotics/ping-arduino.svg?branch=master)](https://travis-ci.org/bluerobotics/ping-arduino)
 [![Gitter](https://img.shields.io/badge/gitter-online-green.svg)](https://gitter.im/bluerobotics/discussion/)
 
-The [Blue Robotics Ping Echosounder](https://www.bluerobotics.com/store/sensors-sonars-cameras/sonar/ping-r1/) is a low cost acoustic rangefinder for underwater applications. This Arduino library allows you to communicate and gather data from a Ping device.
+The [P30 Sonar](http://searobotix.com/p30-sonar/) is a low cost acoustic rangefinder for underwater applications. This Arduino library allows you to communicate and gather data from a Ping device.
 
 ## Ping Firmware Setup
 
-[Change](https://docs.bluerobotics.com/ping-viewer/firmware-update/) the Ping device firmware to 9600 baud for this examples.
+[Change](http://searobotix.com/docs/ping-viewer/) the Ping device firmware to 9600 baud for this examples.
 
 > Note: If your arduino has multiple hardware serial interfaces, you can change the example to run with 115200 baud rate and with a hardware serial port.
 
