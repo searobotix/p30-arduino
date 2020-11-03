@@ -1,7 +1,3 @@
-<a href="https://bluerobotics.com">
- <img src="https://avatars2.githubusercontent.com/u/7120633?v=3&s=100" align="left" hspace="10" vspace="6">
-</a>
-
 [![Travis Build Status](https://travis-ci.org/bluerobotics/ping-arduino.svg?branch=master)](https://travis-ci.org/bluerobotics/ping-arduino)
 [![Gitter](https://img.shields.io/badge/gitter-online-green.svg)](https://gitter.im/bluerobotics/discussion/)
 
